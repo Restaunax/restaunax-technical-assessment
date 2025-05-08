@@ -117,8 +117,6 @@ Here's a sample order you can use for reference:
   ]
 }
 
-
-
 ## Submission
 
 Create your own GitHub repository for this project and send us the link (public or private with access). Include a detailed README that covers:
@@ -134,4 +132,8 @@ Create your own GitHub repository for this project and send us the link (public 
 If you have any questions about the assessment, please reach out to us directly. We're looking forward to seeing your solution!
 
 Happy coding! 🧑‍💻
+
+
+
+
 ```
