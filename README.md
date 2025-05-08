@@ -88,7 +88,7 @@ Here's a sample order you can use for reference:
   "customerEmail": "alex@example.com",
   "orderType": "delivery",
   "status": "pending",
-  "total": 42.50,
+  "total": 42.5,
   "createdAt": "2024-05-07T18:30:00Z",
   "scheduledFor": "2024-05-07T19:15:00Z",
   "preparationNotes": "",
@@ -116,6 +116,7 @@ Here's a sample order you can use for reference:
     }
   ]
 }
+```
 
 ## Submission
 
@@ -132,8 +133,3 @@ Create your own GitHub repository for this project and send us the link (public 
 If you have any questions about the assessment, please reach out to us directly. We're looking forward to seeing your solution!
 
 Happy coding! 🧑‍💻
-
-
-
-
-```
