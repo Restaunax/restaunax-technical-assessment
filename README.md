@@ -119,16 +119,19 @@ Here's a sample order you can use for reference:
 
 
 
-Submission
+## Submission
+
 Create your own GitHub repository for this project and send us the link (public or private with access). Include a detailed README that covers:
 
-How to set up and run your application
-Your technical choices and reasoning
-Architecture overview (a diagram would be helpful)
-What you'd improve or add with more time
-Any challenges you faced and how you addressed them
+1. How to set up and run your application
+2. Your technical choices and reasoning
+3. Architecture overview (a diagram would be helpful)
+4. What you'd improve or add with more time
+5. Any challenges you faced and how you addressed them
 
-Questions?
+## Questions?
+
 If you have any questions about the assessment, please reach out to us directly. We're looking forward to seeing your solution!
+
 Happy coding! 🧑‍💻
 ```
