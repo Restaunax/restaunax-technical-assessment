@@ -10,7 +10,7 @@ As a developer at Restaunax, one of your tasks is to develop a critical componen
 
 ## Your Task
 
-You are free to use any backend language or framework, though we recommend using technologies aligned with our stack (Node.js/Express, PostgreSQL, Prisma). For the frontend, you **must use React with Material UI**.
+You are required to implement the backend using Node.js/Express, PostgreSQL, and Prisma ORM. For the frontend, you **must use React with Material UI**. Additionally, please containerize your application using Docker to ensure it runs consistently across different environments.
 
 ### 1. Backend
 
