@@ -55,7 +55,6 @@ Create a responsive UI using **React and Material UI components** that includes:
 - Filter/search functionality (by status, customer name, order type)
 - Status management with drag-and-drop or dropdown functionality
 - Responsive design that works on both desktop and mobile viewports
-- **Bonus**: Implement real-time updates using Socket.io
 
 ### 3. Data Seeding (Required)
 
